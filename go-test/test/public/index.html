@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>WebSocket</title>
+</head>
+
+<body>
+<p id="output"></p>
+
+<script>
+    var loc = window.location;
+    var uri = 'ws:';
+
+    if (loc.protocol === 'https:') {
+        uri = 'wss:';
+    }
+    uri += '//' + loc.host;
+    uri += '/ws';
+
+    ws = new WebSocket("ws://localhost:1323/ws")
+    console.log(ws)
+
+    ws.onopen = function() {
+        console.log('Connected')
+    }
+
+    ws.onmessage = function(evt) {
+        var out = document.getElementById('output');
+        out.innerHTML += evt.data + '<br>';
+    }
+    function Send(){
+        var Message = document.getElementById('Message').value
+
+        ws.send(Message);
+    }
+
+    function CreatUser() {
+        var user = document.getElementById('User').value
+        var request = new XMLHttpRequest()
+
+// Open a new connection, using the GET request on the URL endpoint
+        request.open('GET', 'http://localhost:1323/user', user)
+        request.send()
+    }
+
+</script>
+
+<div>
+    <input id="User">
+    <button onclick="CreatUser()">Creat</button>
+</div>
+
+<div>
+    <input id="Message">
+    <button onclick="Send()">send</button>
+</div>
+<div>
+
+</div>
+
+</body>
+
+</html>
