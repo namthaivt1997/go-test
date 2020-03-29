@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ceb6b08-14fb-4b8d-b9ce-bbbab289d794" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/front-end/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go\bin\src\go1.14.1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front-end" />
+  </component>
+  <component name="ProjectId" id="1ZQXhT5qJ7hWixZxQlHRbLc4cq2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+    <property name="ts.external.directory.path" value="C:\Go\bin\src\demo\front-end\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Go\bin\src\demo\front-end\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build ws.go">
+    <configuration name="go build ws.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/ws.go" />
+      <package value="demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/front-end/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build ws.go" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ceb6b08-14fb-4b8d-b9ce-bbbab289d794" name="Default Changelist" comment="" />
+      <created>1584772411615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584772411615</updated>
+      <workItem from="1584772414945" duration="264000" />
+      <workItem from="1584779889637" duration="851000" />
+      <workItem from="1584780783070" duration="14337000" />
+      <workItem from="1584855200622" duration="9011000" />
+      <workItem from="1585129190531" duration="2995000" />
+      <workItem from="1585193693229" duration="736000" />
+      <workItem from="1585365560181" duration="11897000" />
+      <workItem from="1585489963445" duration="2367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="31" key="#GOROOT" timestamp="1584855394727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="31" key="#GOROOT/0.0.1366.738@0.0.1366.738" timestamp="1584855394727" />
+    <state x="275" y="31" key="#Inspections" timestamp="1584793416407">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="31" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1584793416407" />
+    <state x="275" y="31" key="#Notifications" timestamp="1584782027106">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="31" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1584782027106" />
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584781276690">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1584781276690" />
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1585375435849">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1585375435849" />
+    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1584855392211">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584855392211" />
+    <state width="661" height="202" key="GridCell.Tab.0.bottom" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.0.center" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.0.left" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.0.right" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.1.bottom" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.1.center" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.1.left" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state width="661" height="202" key="GridCell.Tab.1.right" timestamp="1585406209149">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="661" height="202" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1585406209149" />
+    <state x="186" y="15" key="SettingsEditor" timestamp="1585369188368">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1585369188368" />
+    <state x="390" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1585489978461">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1585489978461" />
+    <state x="339" y="22" width="672" height="676" key="search.everywhere.popup" timestamp="1585405376435">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="22" width="672" height="676" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1585405376435" />
+  </component>
+</project>
